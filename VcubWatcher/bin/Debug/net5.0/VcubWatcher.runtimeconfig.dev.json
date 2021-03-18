@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/lemalgache/.dotnet/store/|arch|/|tfm|",
+      "/home/lemalgache/.nuget/packages"
+    ]
+  }
+}
