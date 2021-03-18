@@ -38,3 +38,5 @@
 /home/lemalgache/RiderProjects/VcubWatcher/VcubWatcher/obj/Debug/net5.0/VcubWatcher.pdb
 /home/lemalgache/RiderProjects/VcubWatcher/VcubWatcher/obj/Debug/net5.0/VcubWatcher.genruntimeconfig.cache
 /home/lemalgache/RiderProjects/VcubWatcher/VcubWatcher/obj/Debug/net5.0/VcubWatcher.csproj.CopyComplete
+/home/lemalgache/RiderProjects/VcubWatcher/VcubWatcher/obj/Debug/net5.0/Razor/Views/Home/StationList.cshtml.g.cs
+/home/lemalgache/RiderProjects/VcubWatcher/VcubWatcher/bin/Debug/net5.0/Newtonsoft.Json.dll

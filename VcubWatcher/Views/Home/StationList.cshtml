@@ -1,0 +1,13 @@
+﻿@model List<BikeStation>
+
+@{
+    ViewData["Title"] = "Liste des stations";
+}
+<h1>Liste des stations - Page de test</h1>
+
+<ul>
+    @foreach (var station in Model)
+    {
+        <li>@station.Name</li>
+    }
+</ul>
